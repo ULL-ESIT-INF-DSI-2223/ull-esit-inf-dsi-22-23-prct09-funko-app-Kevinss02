@@ -1,0 +1,12 @@
+{
+  "id": "123",
+  "name": "Funko Pop Figure",
+  "description": "This is a Funko Pop Figure",
+  "type": "Pop!",
+  "genre": "Animation",
+  "franchise": "Some franchise",
+  "franchiseNumber": 42,
+  "isExclusive": false,
+  "specialFeatures": "None",
+  "marketValue": 10.99
+}
